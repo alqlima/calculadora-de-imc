@@ -15,7 +15,7 @@
 ## Status do projeto
  
  <h4 align="center">
-   🚧 Calculadora de IMC 🚀 Em construção... 🚧
+   🚧 Calculadora de IMC 🚀 Concluido!!! 🚧
  </h4>
 
 ## Author
